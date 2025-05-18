@@ -1,1 +1,1 @@
-# pythonrepo
+Python is a free, open source and interpreting programming language. This very nature of the language makes it one of the most sought for and go to programming language to learn. Python programming has a wide array of applications which also include data analysis and data science. The language is extensively packed with libraries which are useful for data analysis which makes it a suitable and favourable language in the industry.
